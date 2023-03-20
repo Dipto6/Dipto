@@ -1,4 +1,4 @@
-### Hi there 👋, Dipto Tantabay
+### Hi there 👋, This is Dipto Tantabay
 #### Web Developer
 I am a Back End Web developer. I have passion for quick learning and sharing my knowledge with others as publicly as possible. I love to solve real world problems. I am strategic, goal-oriented and always work with an end goal in mind. 
 
